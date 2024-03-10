@@ -1,0 +1,36 @@
+! Title: uBlock Origin, Pi-hole, NextDNS and similar filters – Poop Filter
+! Expires: 30 days
+! Last modified: Sun, 10 Mar 2024 09:41:44 +0000
+! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
+! Diff-Expires: 317 minutes
+! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
+! *** uAssets:filters/poopfilter.txt ***
+! Using request of type `document` will cause the whole site to be blocked through
+! strict blocking, yet the site will render properly if a user still decides to
+! go ahead.
+! This list includes websites with a lot of bullshit, crap and/or mostly unncessary information or products.
+! Crowdfunding (mostly crap)
+|| indiegogo.com^
+|| kickstarter.com^
+! Fitness (mostly bad)
+|| huel.com^
+|| loewenanteil.com^
+|| ahead-nutrition.com^
+|| hellofresh.de^
+! Influencer shit
+|| magicholz.de^
+|| thatshirtwascash.com^
+|| redbubble.com^
+|| qwertee.com^
+|| lowendbox.com^
+|| nitrado.net^
+! Fat food
+|| baumkuchen-online.de^
+|| baumkuchen-kaufen.de^
+|| chocolats-de-luxe.de^
+! Tickets (stay at home)
+|| eventbrite.de^
+|| eventbrite.com^
+|| eventim.de^
+|| ticketmaster.de^
+|| ticketmaster.com^
