@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Mon, 25 Mar 2024 09:41:44 +0000
+! Last modified: Thu, 28 Mar 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -44,6 +44,10 @@ dx.com
 gorillas.io
 shein.com
 banggood.com
+impericon.com
+impericon.de
+emp.de
+elbenwald.de
 ! Fat food
 baumkuchen-online.de
 baumkuchen-kaufen.de
