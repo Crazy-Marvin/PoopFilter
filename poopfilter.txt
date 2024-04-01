@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Thu, 28 Mar 2024 09:41:44 +0000
+! Last modified: Mon, 01 Apr 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -59,6 +59,11 @@ eventbrite.com
 eventim.de
 ticketmaster.de
 ticketmaster.com
+ticketticker.de
+tixforgigs.de
+seetickets.nl
+seetickets.com
+paylogic.com
 ! Socials
 tinder.com
 lovoo.de
