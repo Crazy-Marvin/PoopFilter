@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Mon, 01 Apr 2024 09:41:44 +0000
+! Last modified: Sat, 06 Apr 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -25,7 +25,10 @@ bodyshake.com
 foodspring.de
 bodylab24.de
 morenutrition.de
-morenutriton.cm
+morenutriton.com
+freeletics.de
+freeletics.coms
+suprfit.com
 ! Influencer shit
 ankerkraut.de
 magicholz.de
