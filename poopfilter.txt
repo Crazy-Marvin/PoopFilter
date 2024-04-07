@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Sat, 06 Apr 2024 09:41:44 +0000
+! Last modified: Sun, 07 Apr 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -46,6 +46,7 @@ instant-gaming.com
 kinguin.net
 mmoga.com
 mmoga.de
+triebwerk-energy.com
 ! Shopping (you have everything)
 temu.com
 aliexpress.com
