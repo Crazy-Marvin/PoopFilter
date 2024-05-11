@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Wed, 01 May 2024 09:41:44 +0000
+! Last modified: Sat, 11 May 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -65,11 +65,25 @@ emp.de
 elbenwald.de
 schlechtekarten.de
 zero-potential.com
+tindie.com
+medpex.de
+apodiscounter.de
+docmorris.com
+docmorris.de
+shop-apotheke.com
+medikamente-per-klick.de
+sanicare.de
+aponeo.de
+zurrrose.de
+easyapotheke.de
+mycare.de
+versandapo.de
+aliva.de
 ! Fat food
 baumkuchen-online.de
 baumkuchen-kaufen.de
 chocolats-de-luxe.de
-! Tickets (stay at home)
+! Tickets/Events (stay at home)
 eventbrite.de
 eventbrite.com
 eventim.de
@@ -93,5 +107,17 @@ speeddating-xxl.de
 socialmatch.de
 face-to-face-dating.de
 f2fd.de
+synaxon-akademie.de
+events.synaxon.de
+haufe-akademie.de
+sgd.de
+mike-bergmann-akademie.de
+mike-bergmann.de
+tam-akademie.de
+med-akademie.de
+zeitakademie.de
+apollon-akademie.de
+daad-akademie.de
+droidcon.com
 ! Marketing
 mailmunch.com
