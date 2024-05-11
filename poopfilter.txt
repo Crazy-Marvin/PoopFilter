@@ -119,5 +119,8 @@ zeitakademie.de
 apollon-akademie.de
 daad-akademie.de
 droidcon.com
+ms-ai-roadshow.com
+javaland.eu
+cloudland.org
 ! Marketing
 mailmunch.com
