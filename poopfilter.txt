@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Sat, 11 May 2024 09:41:44 +0000
+! Last modified: Sun, 23 May 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -52,6 +52,9 @@ triebwerk-energy.com
 holzkern.com
 klazmo.de
 klazmo.com
+yfood.com
+yfood.de
+yfood.eu
 ! Shopping (you have everything)
 temu.com
 aliexpress.com
