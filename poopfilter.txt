@@ -97,19 +97,6 @@ tixforgigs.de
 seetickets.nl
 seetickets.com
 paylogic.com
-! Socials
-tinder.com
-lovoo.de
-bumble.com
-hinge.co
-okcupid.com
-parshiph.de
-parship.com
-happn.fr
-speeddating-xxl.de
-socialmatch.de
-face-to-face-dating.de
-f2fd.de
 synaxon-akademie.de
 events.synaxon.de
 haufe-akademie.de
@@ -125,5 +112,23 @@ droidcon.com
 ms-ai-roadshow.com
 javaland.eu
 cloudland.org
+digistore24.com
+fairground-festival.de
+eventsafe.eu
+eventportal.io
+get.systems
+! Socials
+tinder.com
+lovoo.de
+bumble.com
+hinge.co
+okcupid.com
+parshiph.de
+parship.com
+happn.fr
+speeddating-xxl.de
+socialmatch.de
+face-to-face-dating.de
+f2fd.de
 ! Marketing
 mailmunch.com
