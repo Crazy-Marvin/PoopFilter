@@ -55,6 +55,7 @@ klazmo.com
 yfood.com
 yfood.de
 yfood.eu
+weareholy.com
 ! Shopping (you have everything)
 temu.com
 aliexpress.com
@@ -117,6 +118,11 @@ fairground-festival.de
 eventsafe.eu
 eventportal.io
 get.systems
+holi-farbrausch.de
+fuhrberg-rockt.de
+waves-openair.de
+socialclubtickets.com
+thisissocialclub.com
 ! Socials
 tinder.com
 lovoo.de
