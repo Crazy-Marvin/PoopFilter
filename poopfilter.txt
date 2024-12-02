@@ -141,3 +141,6 @@ face-to-face-dating.de
 f2fd.de
 ! Marketing
 mailmunch.com
+! Deals (mostly fake)
+mydealz.de
+dealdoktor.de
