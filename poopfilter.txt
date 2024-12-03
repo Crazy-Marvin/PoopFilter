@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Tue, 26 November 2024 09:41:44 +0000
+! Last modified: Tue, 03 December 2024 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -118,6 +118,7 @@ javaland.eu
 cloudland.org
 digistore24.com
 fairground-festival.de
+thetorus.de
 eventsafe.eu
 eventportal.io
 get.systems
@@ -126,13 +127,25 @@ fuhrberg-rockt.de
 waves-openair.de
 socialclubtickets.com
 thisissocialclub.com
+q-dance.com
+hurricane.de
+lollapaloozade.com
+lunatic-festival.de
+wacken.com
+fusion-festival.de
+oakhill-festival.de
+rockharz-festival.com
+reload-festival.de
+reeperbahnfestival.com
+sonnemondsterne-shop.de
+sonnemondsterne.de
 ! Socials
 tinder.com
 lovoo.de
 bumble.com
 hinge.co
 okcupid.com
-parshiph.de
+parship.de
 parship.com
 happn.fr
 speeddating-xxl.de
