@@ -85,6 +85,12 @@ easyapotheke.de
 mycare.de
 versandapo.de
 aliva.de
+ninjakitchen.com
+ninjakitchen.de
+knuspr.com
+knuspr.de
+shop.t3n.de
+shop.heise.de
 ! Fat food
 baumkuchen-online.de
 baumkuchen-kaufen.de
@@ -139,6 +145,7 @@ reload-festival.de
 reeperbahnfestival.com
 sonnemondsterne-shop.de
 sonnemondsterne.de
+secit-heise.de
 ! Socials
 tinder.com
 lovoo.de
