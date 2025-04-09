@@ -169,3 +169,8 @@ mailmunch.com
 ! Deals (mostly fake)
 mydealz.de
 dealdoktor.de
+! Filthy "Publishers"
+substack.com
+patreon.com
+ko-fi.com
+distrokid.com
