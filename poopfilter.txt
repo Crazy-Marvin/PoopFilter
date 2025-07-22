@@ -190,3 +190,20 @@ top4fans.com
 fan.direct
 ifans.com
 manyvids.com
+! AI
+chat.com
+chatgpt.com
+perplexity.ai
+kimi.com
+anthropic.com
+claude.ai
+deepseek.com
+deepseek.de
+grok.com
+meta.ai
+chat.qwen.ai
+qwen.ai
+copy.ai
+vivago.ai
+bfl.ai
+chaingpt.org
