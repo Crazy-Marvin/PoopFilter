@@ -1,6 +1,6 @@
 ! Title: Poop Filter
 ! Expires: 30 days
-! Last modified: Tue, 24 December 2024 09:41:44 +0000
+! Last modified: Tue, 31 August 2025 09:41:44 +0000
 ! Diff-Path: ../patches/2024.3.10.1041.patch#ublock-badware
 ! Diff-Expires: 317 minutes
 ! License: https://github.com/Crazy-Marvin/PoopFilter/blob/trunk/LICENSE
@@ -154,6 +154,7 @@ reeperbahnfestival.com
 sonnemondsterne-shop.de
 sonnemondsterne.de
 secit-heise.de
+amsterdam-dance-event.nl
 ! Socials
 tinder.com
 lovoo.de
